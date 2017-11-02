@@ -10,3 +10,5 @@ If you do not know how to download this Ionic project and get it running again o
 
 Once you have it cloned and running. You can take a look at the code and add more list items. 
 
+Here is the link to the tutorial: https://youtu.be/lUr4Wk9M6YA
+
